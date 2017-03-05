@@ -1,0 +1,19 @@
+.jumbotron {
+	background-image: url("images/hogwarts express.jpg");
+	background-repeat: no-repeat;
+	height: 350px;
+	line-height: 100px;
+	background-position: center;
+	color: white;
+
+}
+.panel-danger{
+	text-align: center;
+}
+
+.form-group{
+	text-align: left;
+}
+body {
+	background-color: #c50a29;
+}
