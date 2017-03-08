@@ -1,6 +1,7 @@
 .jumbotron {
 	background-image: url("images/hogwarts express.jpg");
 	background-repeat: no-repeat;
+	background-size: cover;
 	height: 350px;
 	line-height: 100px;
 	background-position: center;
@@ -16,4 +17,12 @@
 }
 body {
 	background-color: #c50a29;
+}
+
+#trainTable{
+	text-align: center;
+}
+
+th{
+text-align: center;
 }
